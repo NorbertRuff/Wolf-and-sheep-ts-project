@@ -8,11 +8,11 @@ A typescript application to met the task requirements.
 
 <div align="center">
 
-•[PROJECT PHILOSOPHY](https://github.com/NorbertRuff/wamewo-homework-project/#project-philosophy) •
-[TECH STACK](https://github.com/NorbertRuff/wamewo-homework-project/#tech-stack) •
-[SCREENSHOTS](https://github.com/NorbertRuff/wamewo-homework-project/#screenshots) •
-[CONTRIBUTING](https://github.com/NorbertRuff/wamewo-homework-project/#contributing) •
-[ABOUT ME](https://github.com/NorbertRuff/wamewo-homework-project/#about-me)
+•[PROJECT PHILOSOPHY](https://github.com/NorbertRuff/Wolf-and-sheep-ts-project/#project-philosophy) •
+[TECH STACK](https://github.com/NorbertRuff/Wolf-and-sheep-ts-project/#tech-stack) •
+[SCREENSHOTS](https://github.com/NorbertRuff/Wolf-and-sheep-ts-project/#screenshots) •
+[CONTRIBUTING](https://github.com/NorbertRuff/Wolf-and-sheep-ts-project/#contributing) •
+[ABOUT ME](https://github.com/NorbertRuff/Wolf-and-sheep-ts-project/#about-me)
 •
 
 </div>
@@ -144,7 +144,7 @@ Contributions, issues and feature requests are welcome!<br/>
 
 I always looking for improvements to the project and help from developers are greatly appreciated.
 
-Feel free to check [issues page](https://github.com/NorbertRuff/wamewo-homework-project/issues).
+Feel free to check [issues page](https://github.com/NorbertRuff/Wolf-and-sheep-ts-project/issues).
 
 
 Give a ⭐️ if this project helped you!

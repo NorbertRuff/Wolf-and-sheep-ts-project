@@ -1,4 +1,4 @@
-## <div style="color:#f59800" align="center">---|Welcome to my WaMeWo homework Project 👋|---</div>
+## <div style="color:#f59800" align="center">---|Welcome to my Wolf and sheep homework Project 👋|---</div> 
 <div align="center">
   
 A typescript application to met the task requirements.
@@ -40,17 +40,10 @@ A typescript application to met the task requirements.
 - Best practices
 
 
-
-## <div style="color:#f59800" align="center">---|Roadmap|---</div>
-
-- Docker implementation in progress
-
-
-
 ## 💺Task Requirements
 
 - Big Dot represents wolf
-- Small rectangles represents sheeps
+- Small rectangles represents sheep
 - Wolf tries to catch closest sheep
 - Sheeps tries to escape from wolf
 - Wolf eats sheep when he catches
